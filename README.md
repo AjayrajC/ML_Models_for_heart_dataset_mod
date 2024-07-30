@@ -52,16 +52,16 @@
  ## Output
  
 	Model used                        	              Highest score	    Best Hyperparameters
-# 0	LogisticRegression(max_iter=10000)	              0.831585	        {'C': 5}
-# 1	SVC(max_iter=10000)                                   0.778415	        {'C': 1, 'kernel': 'linear'}
-# 2	KNeighborsClassifier()                        	      0.643880	        {'n_neighbors': 5}
-# 3	RandomForestClassifier()          	              0.828415	        {'n_estimators': 50}
-# 4	GradientBoostingClassifier(n_estimators=10000)	      0.811694	        {'n_estimators': 50}
-# 5	AdaBoostClassifier(n_estimators=10000)	              0.785137	        {'n_estimators': 50}
-# 6	XGBClassifier(base_score=None, booster=None, c...     0.795191	        {'n_estimators': 150}
-# 7	DecisionTreeClassifier()	                      0.762131	        {'max_depth': 40}
-# 8	GaussianNB()	                                      0.811639	        {'var_smoothing': 1e-05}
-# 9	MLPClassifier(max_iter=10000)	                      0.814918	        {'hidden_layer_sizes': (50,)}
+### 0	LogisticRegression(max_iter=10000)	              0.831585	        {'C': 5}
+### 1	SVC(max_iter=10000)                                   0.778415	        {'C': 1, 'kernel': 'linear'}
+### 2	KNeighborsClassifier()                        	      0.643880	        {'n_neighbors': 5}
+### 3	RandomForestClassifier()          	              0.828415	        {'n_estimators': 50}
+### 4	GradientBoostingClassifier(n_estimators=10000)	      0.811694	        {'n_estimators': 50}
+### 5	AdaBoostClassifier(n_estimators=10000)	              0.785137	        {'n_estimators': 50}
+### 6	XGBClassifier(base_score=None, booster=None, c...     0.795191	        {'n_estimators': 150}
+### 7	DecisionTreeClassifier()	                      0.762131	        {'max_depth': 40}
+### 8	GaussianNB()	                                      0.811639	        {'var_smoothing': 1e-05}
+### 9	MLPClassifier(max_iter=10000)	                      0.814918	        {'hidden_layer_sizes': (50,)}
 
 
 
